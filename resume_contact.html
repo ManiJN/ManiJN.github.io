@@ -1,0 +1,82 @@
+<?PHP  
+// CHECK USERNAME OR PASSWORD FROM DATABASE
+
+
+$POSTDATA = FILE_GET_CONTENTS("PHP://INPUT");
+
+$REQUEST = JSON_DECODE($POSTDATA);
+
+$name = $REQUEST->r_name;
+
+$email = $REQUEST->r_email;
+
+$msg= $REQUEST->r_msg;
+
+$sub=$REQUEST->r_sub;
+
+echo $qry="insert into table () values('$name','$email','$msg','$sub')";
+
+require_once ('/home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php');
+
+
+$mail = new PHPMailer();
+
+$mail = new PHPMailer(true);
+
+
+$mail->IsSMTP();
+
+$mail->SMTPAuth = true;
+
+$mail->Port = 25;
+
+$mail->Host = 'globalpdfs.com'; 
+// SMTP server
+
+$mail->Username = 'globalpd';
+ // SMTP account username
+
+$mail->Password = 'monish#123#';
+ // SMTP account password
+
+
+$mail->From = $email;
+
+$mail->FromName = $name;
+
+$mail->AddAddress('jnmanikandan1996@gmail.com');
+// Receiving Mail ID, it can be either domain mail id (or ) any other mail id i.e., gmail id
+
+
+$mail->Subject =$sub;
+
+$mail->AltBody = '';
+
+$mail->WordWrap = '80';
+
+
+$body = $msg;
+
+$mail->MsgHTML($body);
+
+$mail->IsHTML(true);
+
+
+if(!$mail->send())
+
+{
+
+echo 'Mailer Error: . ';
+//$mail->ErrorInfo;
+
+}
+
+else 
+{
+
+echo '1';
+
+}
+
+
+?>

@@ -1,0 +1,291 @@
+[08-May-2016 11:55:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/globalpd/public_html/resume/resume_contact.php on line 23
+[08-May-2016 11:57:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/globalpd/public_html/resume/resume_contact.php on line 23
+[08-May-2016 12:00:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/globalpd/public_html/resume/resume_contact.php on line 24
+[08-May-2016 12:01:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/globalpd/public_html/resume/resume_contact.php on line 24
+[08-May-2016 12:02:41 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:02:41 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:02:41 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:02:41 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:04:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:04:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:04:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:04:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:06:03 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:06:03 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:06:03 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:06:03 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:06:26 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:06:26 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:06:26 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:06:26 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:06:35 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:06:35 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:06:35 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:06:35 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:09:37 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:09:37 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:09:37 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:09:37 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 12:12:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 12:12:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 12:12:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 12:12:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:44:46 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:44:46 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:44:46 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:44:46 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:46:38 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:46:38 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:46:38 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:46:38 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:49:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:49:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:49:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:49:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:51:04 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:51:04 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:51:04 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:51:04 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:51:16 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:51:16 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:51:16 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:51:16 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:57:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:57:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:57:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:57:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:57:15 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 15:58:04 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/globalpd/public_html/resume/resume_contact.php on line 24
+[08-May-2016 15:58:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:58:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:58:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:58:50 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:58:50 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 15:59:18 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:59:18 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:59:18 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:59:18 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:59:18 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 15:59:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 15:59:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 15:59:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 15:59:23 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 15:59:23 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 16:00:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:00:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:00:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:00:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:01:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:01:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:01:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:01:15 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:01:15 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'The following From address failed: $email' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:768
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 8 Ma...', '--b1_9c2d95d026...')
+#1 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(575): PHPMailer->PostSend()
+#2 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#3 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 768
+[08-May-2016 16:01:54 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:01:54 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:01:54 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:01:54 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:02:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:02:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:02:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:02:10 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:02:33 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:02:33 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:02:33 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:02:33 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:03:01 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:03:01 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:03:01 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:03:01 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:03:36 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:03:36 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:03:36 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:03:36 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:04:13 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:04:13 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:04:13 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:04:13 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:04:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:04:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:04:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:04:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:06:12 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:06:12 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:06:12 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:06:12 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:06:12 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(34): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 16:07:43 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:07:43 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:07:43 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:07:43 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:07:43 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(35): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 16:08:30 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_name in /home/globalpd/public_html/resume/resume_contact.php on line 6
+[08-May-2016 16:08:30 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_email in /home/globalpd/public_html/resume/resume_contact.php on line 7
+[08-May-2016 16:08:30 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_msg in /home/globalpd/public_html/resume/resume_contact.php on line 8
+[08-May-2016 16:08:30 America/Chicago] PHP Notice:  Undefined property: stdClass::$r_sub in /home/globalpd/public_html/resume/resume_contact.php on line 9
+[08-May-2016 16:08:30 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/resume_contact.php(35): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 16:32:36 America/Chicago] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:32:36 America/Chicago] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:32:36 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:32:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:34:39 America/Chicago] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:34:39 America/Chicago] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:34:39 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:34:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:01 America/Chicago] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:01 America/Chicago] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:01 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:08 America/Chicago] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:08 America/Chicago] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:08 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:50 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:50 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:50 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:36:50 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:37:45 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:37:45 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:37:45 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:37:45 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:37:45 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:39:32 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:39:32 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:39:32 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:39:32 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:39:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:43:51 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:43:51 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:43:51 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 16:43:51 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 16:43:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:03:30 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:30 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:30 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:30 America/Chicago] PHP Notice:  Undefined property: stdClass::$comments in /home/globalpd/public_html/resume/contact.php on line 9
+[08-May-2016 21:03:30 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:03:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:03:34 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:34 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:34 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:03:34 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:03:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:10:47 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:47 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:47 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:47 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:10:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:10:56 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:56 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:56 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:10:56 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:10:56 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:11:06 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:06 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:06 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:06 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:11:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:11:20 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:20 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:20 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:11:20 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:11:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:20:16 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:20:16 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:20:16 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:20:16 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:20:16 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:23:05 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:23:05 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:23:05 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:23:05 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:23:05 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:25:36 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:36 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:36 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:36 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:25:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:25:54 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:54 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:54 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:25:54 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:25:54 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:27:06 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:27:06 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:27:06 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:27:06 America/Chicago] PHP Notice:  Undefined variable: conn in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:27:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/globalpd/public_html/resume/contact.php on line 11
+[08-May-2016 21:29:04 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:29:04 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 21:29:04 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 7
+[08-May-2016 22:38:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 8
+[08-May-2016 22:38:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 9
+[08-May-2016 22:38:40 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/contact.php(35): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[08-May-2016 22:38:40 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:37 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:37 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:37 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 7
+[11-May-2016 05:30:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 8
+[11-May-2016 05:30:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/globalpd/public_html/resume/contact.php on line 9
+[11-May-2016 05:30:37 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php:600
+Stack trace:
+#0 /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/globalpd/public_html/resume/contact.php(35): PHPMailer->Send()
+#2 {main}
+  thrown in /home/globalpd/public_html/PHPMailer_5.2.0/class.phpmailer.php on line 600
+[11-May-2016 05:30:38 America/Chicago] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:38 America/Chicago] PHP Warning:  include(http://www.globalpdfs.com/db.php): failed to open stream: no suitable wrapper could be found in /home/globalpd/public_html/resume/contact.php on line 3
+[11-May-2016 05:30:38 America/Chicago] PHP Warning:  include(): Failed opening 'http://www.globalpdfs.com/db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/globalpd/public_html/resume/contact.php on line 3

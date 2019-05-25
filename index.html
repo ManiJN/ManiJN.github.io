@@ -809,20 +809,20 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
     <div class="col-sm-8 text-center" align="center">
        <div class="col-sm-6 form-group">
           <input class="form-control" ng-model ="name" name="username"  placeholder="Name" type="text" required>
-<span ng-show="myForm.username.$error.required && myForm.username.$dirty">required</span>
+<!--span ng-show="myForm.username.$error.required && myForm.username.$dirty">required</span-->
           
 		</div>
      
         <div class="col-sm-6 form-group">
           <input class="form-control" name="email" ng-model ="email" placeholder="E-mail" type="email" required>
-		     <span ng-show="myForm.email.$error.required && myForm.email.$dirty">required</span>
-   <span ng-show="!myForm.email.$error.required && myForm.email.$error.email && myForm.email.$dirty">invalid email</span>
+		     <!--span ng-show="myForm.email.$error.required && myForm.email.$dirty">required</span>
+   <span ng-show="!myForm.email.$error.required && myForm.email.$error.email && myForm.email.$dirty">invalid email</span-->
    
         </div>
         <div class="col-sm-12 form-group">
        
-      <textarea class="form-control"  name ="comments" ng-model ="comments" placeholder="Comment" rows="5"></textarea>
-	  <span ng-show="myForm.comments.$error.required && myForm.comments.$dirty">required</span>
+      <textarea class="form-control"  name ="comments" ng-model ="comments" placeholder="Comment" rows="10"></textarea>
+	  <!--span ng-show="myForm.comments.$error.required && myForm.comments.$dirty">required</span-->
 
 	  <br>
       <div class="row">
